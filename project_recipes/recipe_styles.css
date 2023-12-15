@@ -1,0 +1,16 @@
+body {
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.title {
+    font-weight: bold;
+    text-align: center;
+    color: black;
+    font-size: 30px;
+}
+
+.subtitle {
+    font-weight: bold;
+    color: gray;
+    font-size: 22px;
+}
