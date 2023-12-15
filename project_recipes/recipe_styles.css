@@ -14,3 +14,12 @@ body {
     color: gray;
     font-size: 22px;
 }
+
+img {
+    height: 250px;
+    width: 275px;
+}
+
+h4 {
+    font-style: italic;
+}
