@@ -12,5 +12,26 @@ body {
 .subtitle {
     font-weight: bold;
     color: gray;
-    font-size: 22px;
+    font-size: 24px;
+}
+
+.project {
+
+    background: #e3f4ff;
+    text-align: center;
+    width: 200px;
+    padding-top: 10px;
+    font-size: 18px;
+
+}
+
+.description {
+
+    background: #e3f4ff;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    width: 200px;
+    color: gray;
+    font-size: 14px;
 }
